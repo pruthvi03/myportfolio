@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.4a03ba49.css",
+    "main.js": "/myportfolio/static/js/main.6daf7583.js",
+    "static/media/ugd.jpg": "/myportfolio/static/media/ugd.d4e9691224642f87944c.jpg",
+    "static/media/portfolio.png": "/myportfolio/static/media/portfolio.c39fec976f737e3055d2.png",
+    "static/media/portfolio_openCV.png": "/myportfolio/static/media/portfolio_openCV.6c871998518d923c592f.png",
+    "static/media/shop-app.png": "/myportfolio/static/media/shop-app.d0a5ec72d19ff82b9d70.png",
+    "static/media/myImg-removebg.png": "/myportfolio/static/media/myImg-removebg.cf3dbdcadfab0031b773.png",
+    "static/media/bg-texture.png": "/myportfolio/static/media/bg-texture.ef763c694d5ac49f8a87.png",
+    "static/media/portfolio_npm.png": "/myportfolio/static/media/portfolio_npm.08e770dfb72f4d427792.png",
+    "static/media/myImg.jpg": "/myportfolio/static/media/myImg.9f690227c4761ed1f37f.jpg",
+    "static/media/mycv.pdf": "/myportfolio/static/media/mycv.cd8c155094337c365528.pdf",
+    "static/media/chat-app.png": "/myportfolio/static/media/chat-app.60ec01d533eaf941de59.png",
+    "static/media/testimonial-user.jpg": "/myportfolio/static/media/testimonial-user.35a99a97ed1b63769311.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.4a03ba49.css.map": "/myportfolio/static/css/main.4a03ba49.css.map",
+    "main.6daf7583.js.map": "/myportfolio/static/js/main.6daf7583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a03ba49.css",
+    "static/js/main.6daf7583.js"
+  ]
+}
